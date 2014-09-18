@@ -20,6 +20,7 @@ public class MainActivity extends ActionBarActivity {
 		return true;
 	} // weida first commit 9.13
 	//another commit from jiang liu , weidaw commit again here 10:04
+	//hello
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
