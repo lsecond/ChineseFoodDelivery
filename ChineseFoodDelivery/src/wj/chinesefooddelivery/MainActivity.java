@@ -19,7 +19,7 @@ public class MainActivity extends ActionBarActivity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	} // weida first commit 9.13
-	//another commit from jiang liu , weidaw commit again here 10:04
+	//another commit from jiang liu , weidaw commit again here 10:04 , another from jiang 22.12
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
